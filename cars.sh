@@ -26,6 +26,29 @@ clear
 }
 
 
+
+function Menu1 {
+echo " --------------------------------------------"
+echo "1 - Llistat de Cotxes"
+echo "--------------------------------------------"
+echo "1 Mostrar llistats de cotxes (alfabèticament per nom)."
+echo "2 Mostar llistat de cotxes ordenat per any d'inici de fabricació. (StartYear)"
+echo "3 Mostrar llistat de cotxes ordenats per any de fi de fabricació en ordre descendent. (FinalYear)"
+echo "4 Tornar"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 Menu
 echo "Introdueix una opció"
 read var
